@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 ,广东GRTN纪录片
+http://glive.grtn.cn/live/jilupian.m3u8
+#EXTINF:-1 ,广东GRTN健康频道
+http://glive.grtn.cn/live/health.m3u8
+#EXTINF:-1 ,广东GRTN生活频道
+http://glive.grtn.cn/live/life.m3u8
+#EXTINF:-1 ,广东GRTN文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 ,广东GRTN文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
+#EXTINF:-1 ,广东GRTN文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+#EXTINF:-1 ,广东GRTN文化频道
+http://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 ,广东番禺电视台
+http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+#EXTINF:-1 ,广东河源公共
+http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
+#EXTINF:-1 ,广东河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 ,广东河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+#EXTINF:-1 ,广东河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 ,广东河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
+#EXTINF:-1 ,广东河源综艺
+http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
+#EXTINF:-1 ,广东深圳都市
+http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+#EXTINF:-1 ,广东深圳都市
+http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
+#EXTINF:-1 ,广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
+#EXTINF:-1 ,广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
+#EXTINF:-1 ,广西影视
+http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 ,广西都市
+http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 ,广西综艺
+http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 ,广西北海新闻
+http://rtmp.gdlive.gdmain.com/live/09em4xbl.flv
+#EXTINF:-1 ,广西贺州
+http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+#EXTINF:-1 ,广西罗城综合
+http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
+#EXTINF:-1 ,广西北海新闻
+http://rtmp.gdlive.gdmain.com/live/09em4xbl.m3u8
+#EXTINF:-1 ,广西桂林新闻
+https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+#EXTINF:-1 ,广西贺州
+http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
+#EXTINF:-1 ,广西罗城综合
+http://111.12.75.177:9100/lctvlive/lch.m3u8
+#EXTINF:-1 ,广西钦州公共
+http://stream.gxqzxw.com/qztv02/gghd/live.m3u8
+#EXTINF:-1 ,广西钦州综合
+http://stream.gxqzxw.com/qztv/zhhd/live.m3u8
