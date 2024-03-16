@@ -53,12 +53,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225530/index.m3u8
 #EXTINF:-1 group-title="咪咕",河北卫视
 http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
-#EXTINF:-1 group-title="咪咕",黑莓电竞
-http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
-#EXTINF:-1 group-title="咪咕",黑莓电影
-http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="咪咕",黑莓动画
-http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
 #EXTINF:-1 group-title="咪咕",湖北卫视
 http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
 #EXTINF:-1 group-title="咪咕",湖南金鹰卡通
@@ -109,6 +103,12 @@ http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225510/index.m3u8
 #EXTINF:-1 group-title="咪咕",CGTN纪录
 http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
+#EXTINF:-1 group-title="咪咕",黑莓电竞
+http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+#EXTINF:-1 group-title="咪咕",黑莓电影
+http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="咪咕",黑莓动画
+http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
 #EXTINF:-1 group-title="咪咕",求索动物8M
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="咪咕",求索纪录8M
