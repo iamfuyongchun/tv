@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 ,宁夏公共
+https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
+#EXTINF:-1 ,宁夏吴忠公共
+http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
+#EXTINF:-1 ,宁夏吴忠综合
+http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
+#EXTINF:-1 ,青海安多卫视
+http://stream.qhbtv.com/adws/playlist.m3u8
+#EXTINF:-1 ,青海安多卫视
+http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
+#EXTINF:-1 ,青海安多卫视
+http://stream.qhbtv.com/adws/sd/live.m3u8
+#EXTINF:-1 ,青海大通电视台
+http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
+#EXTINF:-1 ,青海都市
+http://stream.qhbtv.com/qhds/playlist.m3u8
+#EXTINF:-1 ,青海都市
+http://stream.qhbtv.com/qhds/sd/live.m3u8
+#EXTINF:-1 ,青海都市
+http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
+#EXTINF:-1 ,青海化隆综合
+http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
+#EXTINF:-1 ,青海湟中电视台
+http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
+#EXTINF:-1 ,青海霍尔果斯综合
+http://117.190.118.175:9090/stream1/m2e2000.m3u8
+#EXTINF:-1 ,青海吉木萨尔综合
+http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8
+#EXTINF:-1 ,青海经视
+http://stream.qhbtv.com/qhsh/playlist.m3u8
+#EXTINF:-1 ,青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8
+#EXTINF:-1 ,青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=a7ec5e491648026933
+#EXTINF:-1 ,青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
+#EXTINF:-1 ,青海可克达拉综合
+http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
+#EXTINF:-1 ,青海奎屯哈萨克语
+http://218.84.12.186:8002/hls/main/playlist.m3u8
+#EXTINF:-1 ,青海奎屯汉语综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
+#EXTINF:-1 ,青海门源综合
+http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+#EXTINF:-1 ,青海门源综合
+http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
+#EXTINF:-1 ,青海民和综合
+http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
+#EXTINF:-1 ,青海囊谦综合
+http://pili-live-hls-qhnqapp2020.sobeylive.com/qhnqapp2020/qhnqtv01.m3u8
+#EXTINF:-1 ,青海石河子教育
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+#EXTINF:-1 ,青海石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8
+#EXTINF:-1 ,青海石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1 ,青海石河子影视文体
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+#EXTINF:-1 ,青海卫视
+http://stream.qhbtv.com/qhws/playlist.m3u8
+#EXTINF:-1 ,青海西宁生活
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+#EXTINF:-1 ,青海西宁生活服务
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+#EXTINF:-1 ,青海西宁新闻
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 ,青海西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+#EXTINF:-1 ,青海兴海综合
+http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
+#EXTINF:-1 ,青海综合
+http://lmt.scqstv.com/live1/live1.m3u8
+#EXTINF:-1 ,新疆巴音郭楞州
+http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+#EXTINF:-1 ,新疆巴音郭楞州
+http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
+#EXTINF:-1 ,新疆巴音郭楞州
+http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+#EXTINF:-1 ,新疆巴音郭楞州
+http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
+#EXTINF:-1 ,新疆兵团八师石河子教育
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
+#EXTINF:-1 ,新疆兵团八师石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
+#EXTINF:-1 ,新疆兵团八师石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+#EXTINF:-1 ,新疆兵团十四师昆玉综合
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 ,新疆兵团四师可克达拉综合
+http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 ,新疆兵团五师双河影
+https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
+#EXTINF:-1 ,新疆霍尔果斯综合
+http://117.190.118.175:9090/stream1/m2e2000.m3u8?zxinjd
+#EXTINF:-1 ,新疆吉木萨尔综合
+http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8?zxinjd
+#EXTINF:-1 ,新疆克拉玛依汉语综合
+https://klmyzb.rcsxzx.com/hls/klmy1.m3u8
+#EXTINF:-1 ,新疆克拉玛依维语综合
+https://klmyzb.rcsxzx.com/hls/klmy2.m3u8
+#EXTINF:-1 ,新疆克拉玛依影视
+https://klmyzb.rcsxzx.com/hls/klmy3.m3u8
+#EXTINF:-1 ,新疆奎屯哈萨克语
+http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
+#EXTINF:-1 ,新疆奎屯汉语综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8
+#EXTINF:-1 ,新疆玛纳斯综合
+http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
+#EXTINF:-1 ,新疆伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 ,新疆伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+#EXTINF:-1 ,新疆伊犁汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8
+#EXTINF:-1 ,新疆伊犁汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
+#EXTINF:-1 ,新疆伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 ,新疆伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
+#EXTINF:-1 ,新疆伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 ,新疆伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+#EXTINF:-1 ,新疆裕民哈语
+http://117.190.130.4:8081/out_2/index.m3u8?zxinjd
+#EXTINF:-1 ,新疆裕民汉语
+http://117.190.130.4:8081/out_1/index.m3u8?zxinjd
